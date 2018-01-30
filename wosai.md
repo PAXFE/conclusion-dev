@@ -74,7 +74,7 @@ vue-cli v2.9.2
 	
 	npm install bootstrap --save-dev
 	
- (2)在main.js中引用
+（2）在main.js中引用
 
 	import 'bootstrap/dist/css/bootstrap.min.css';
 	import 'bootstrap/dist/js/bootstrap.min.js';	
